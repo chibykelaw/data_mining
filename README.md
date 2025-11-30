@@ -35,10 +35,10 @@ The goal of this coursework:
 data_mining/
 │
 ├── notebooks/
-│   └── Data Mining CW2.ipynb         # Full data analysis & modelling workflow
+│   └── wisdm_data_mining.ipynb         # Full data analysis & modelling workflow
 │
 ├── reports/
-│   └── Data_Mining_CW2_Report_Clean_full.pdf     # Cleaned public-safe coursework report
+│   └── wisdm_data_mining_report.pdf     # Cleaned public-safe coursework report
 │
 ├── src/
 │   └── (Optional Python modules if extended later)
