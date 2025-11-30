@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Data%20Mining%20CW2-Activity%20Recognition-blue?style=for-the-badge" />
 </p>
 
-<h1 align="center">📊 Data Mining Coursework 2  
+<h1 align="center">📊 Data Mining  
 Human Activity Recognition (HAR) Using Smartphone & Smartwatch Data</h1>
 
 <p align="center">
